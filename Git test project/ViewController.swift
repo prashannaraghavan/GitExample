@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
+    // Gets called after ViewDidLoad()
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         print("View controller appears")
