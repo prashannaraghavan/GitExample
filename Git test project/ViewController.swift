@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // First method in VC life cycle.
     override func viewDidLoad() {
         super.viewDidLoad()
     }
